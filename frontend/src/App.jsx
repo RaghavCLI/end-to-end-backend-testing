@@ -147,7 +147,7 @@ function App() {
         {/* Header */}
         <Box sx={{ my: 4 }}>
           <Typography variant="h3" component="h1" gutterBottom align="center">
-            🔍 OCR Image Processing
+            🔍 OCR Image Processing - updateds
           </Typography>
           <Typography variant="subtitle1" align="center" color="text.secondary" paragraph>
             Upload an image to extract text using PaddleOCR
